@@ -85,9 +85,9 @@ print(train_non_destructed_features.shape)
 train_non_destructed_features = np.reshape(train_non_destructed_features,(-1,9,1024))
 
 
-#print("Now saving features...")
-#
-#picklepath= os.path.join("features","trainfeatures.pickle")
-#with open(picklepath, 'wb') as handle:
-#    pickle.dump(train_destructed_features, handle, protocol=pickle.HIGHEST_PROTOCOL)
-#    pickle.dump(train_non_destructed_features, handle, protocol=pickle.HIGHEST_PROTOCOL)
+print("Now saving features...")
+
+picklepath= os.path.join("features","trainfeatures.pickle")
+with open(picklepath, 'wb') as handle:
+    pickle.dump(train_destructed_features, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    pickle.dump(train_non_destructed_features, handle, protocol=pickle.HIGHEST_PROTOCOL)
