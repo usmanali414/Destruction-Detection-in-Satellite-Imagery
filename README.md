@@ -15,7 +15,7 @@ Keras  2.1.6
 Tensorflow-gpu 1.12.0
 numpy 1.14.1
 
-
+Dataset Link: https://mega.nz/#!IJdUjCpB!ubv1uBWb4QtQqvwgKoIPppvhHTlqlmPNvFrAxCsmUII
 ### 1. Training
 
 Before Training either download Features from this link https://www.dropbox.com/sh/y55nyifuimkzp37/AADjZCESS8W2VKkn8n-dZLWia?dl=0     
