@@ -1,6 +1,7 @@
 # Destruction-Detection-in-Satellite-Imagery
 Detection of destruction in satellite imagery
-
+![Image description](WSAN final.jpg)
+![Image description](final2.jpg)
 Requirenments:
 Keras  2.1.6
 Tensorflow-gpu 1.12.0
