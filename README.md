@@ -1,5 +1,5 @@
-# Destruction-Detection-in-Satellite-Imagery
-Detection of destruction in satellite imagery
+# DESTRUCTION FROM SKY: WEAKLY SUPERVISED APPROACH FOR DESTRUCTION DETECTION IN SATELLITE IMAGERY
+
 ![](WSANfinal.jpg)
 WSAN Network Flow diagram.
 
