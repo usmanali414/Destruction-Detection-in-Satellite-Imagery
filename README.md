@@ -1,9 +1,11 @@
 # Destruction-Detection-in-Satellite-Imagery
 Detection of destruction in satellite imagery
-!(WSANfinal.jpg)
-[WSAN Network Flow diagrame.]
-!(final2.jpg)
-[Image showing detection of destruction by WSAN model.]
+![](WSANfinal.jpg)
+WSAN Network Flow diagram.
+
+![](final2.jpg)
+Image showing detection of destruction by WSAN model.
+
 
 
 
