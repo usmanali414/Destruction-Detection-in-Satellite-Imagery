@@ -17,6 +17,7 @@ numpy 1.14.1
 
 Dataset Link: https://mega.nz/#!IJdUjCpB!ubv1uBWb4QtQqvwgKoIPppvhHTlqlmPNvFrAxCsmUII
 Project Link: http://im.itu.edu.pk/destruction-detection/
+Paper Link:   http://im.itu.edu.pk/wp-content/uploads/2020/02/id_compressed.pdf
 ### 1. Training
 
 Before Training either download Features from this link https://www.dropbox.com/sh/y55nyifuimkzp37/AADjZCESS8W2VKkn8n-dZLWia?dl=0     
