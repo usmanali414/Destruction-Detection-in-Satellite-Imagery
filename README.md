@@ -1,13 +1,17 @@
 # Destruction-Detection-in-Satellite-Imagery
 Detection of destruction in satellite imagery
-![WSAN Network Flow diagrame.](WSANfinal.jpg)
-![Image showing detection of destruction by WSAN model.](final2.jpg)
-Requirenments:
+!(WSANfinal.jpg)
+[WSAN Network Flow diagrame.]
+!(final2.jpg)
+[Image showing detection of destruction by WSAN model.]
+
+
+
+
+### Requirenments:
 Keras  2.1.6
 Tensorflow-gpu 1.12.0
 numpy 1.14.1
-
-
 
 
 ### 1. Training
