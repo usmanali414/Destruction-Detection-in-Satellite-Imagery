@@ -11,12 +11,12 @@ Image showing detection of destruction by WSAN model.
 
 
 ### Requirenments:
-Keras  2.1.6
-Tensorflow-gpu 1.12.0
-numpy 1.14.1
+Keras  2.1.6<br/>
+Tensorflow-gpu 1.12.0<br/>
+numpy 1.14.1<br/>
 
-Dataset Link: https://mega.nz/#!IJdUjCpB!ubv1uBWb4QtQqvwgKoIPppvhHTlqlmPNvFrAxCsmUII
-Project Link: http://im.itu.edu.pk/destruction-detection/
+Dataset Link: https://mega.nz/#!IJdUjCpB!ubv1uBWb4QtQqvwgKoIPppvhHTlqlmPNvFrAxCsmUII<br/>
+Project Link: http://im.itu.edu.pk/destruction-detection/<br/>
 Paper Link:   http://im.itu.edu.pk/wp-content/uploads/2020/02/id_compressed.pdf
 ### 1. Training
 
